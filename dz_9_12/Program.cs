@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 using System.Runtime.InteropServices;
 
-namespace sz_1
+namespace dz_9_12
 {
     internal class Program
     {
@@ -164,7 +164,7 @@ namespace sz_1
                                     Console.WriteLine("Укажите ФИО                      : " + true_and_namber4);
 
                                     Console.WriteLine("\n\nРегестрацыя прошла успешно       :  :)");
-                                    Console.WriteLine    ("Эх это было сложно               :  ;)");
+                                    Console.WriteLine("Эх это было сложно               :  ;)");
 
                                     break;
 
